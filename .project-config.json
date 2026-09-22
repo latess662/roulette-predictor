@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/dKuPKZsAQxK5PXx2XooPfR.git",
+    "expiration": "2026-09-10T07:33:03.985Z",
+    "token": "art_v2_x_805f1bafd17e573e54b2e2233dac52f1bff3bf53?expires=1789025583",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "roulette-francaise-probabilites",
+  "path": "/home/ubuntu/roulette-francaise-probabilites",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "aLzraVEJDve9xYUTvkPncd",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "efEwU6SDioi5VTM6GupJoW",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Nyako Elison",
+    "OWNER_OPEN_ID": "SzaBKAtgg9snNRirfpriwa",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "7b14f777-b802-48bd-8b5c-acb7b2e0584e",
+    "VITE_APP_ID": "dKuPKZsAQxK5PXx2XooPfR",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Roulette Française — Probabilités",
+    "VITE_FRONTEND_FORGE_API_KEY": "URsuKLfh4dpQ66yo2tJkTQ",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
